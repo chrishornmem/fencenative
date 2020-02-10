@@ -19,5 +19,7 @@ markdown_extensions:
 Use like this in the ```md``` files
 
 ` ```fence_native tab="Kitten" `
-```   <img src="https://placekitten.com/300/300" /> ```
+```
+    <img src="https://placekitten.com/300/300" />
+```
 ``` '
